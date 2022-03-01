@@ -17,12 +17,10 @@ public abstract class Iphone {
     }
 
     public void certificates() {
-        System.out.println("Verificando país que realizará a certificação");
         System.out.println(rules.certificate().applyCertification());
     }
 
     public void pack() {
-        System.out.println("Verificando país que realizará empacotando do dispositivo");
         System.out.println(rules.packing().pack());
     }
 }
