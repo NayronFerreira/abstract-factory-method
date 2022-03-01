@@ -1,7 +1,7 @@
 package factory.country;
 
-import model.country.USCertifate;
-import model.country.USPack;
+import model.country.certificate.USCertifate;
+import model.country.pack.USPack;
 import service.*;
 
 public class USAbstractFactory extends CountryRulesAbstractFactory {

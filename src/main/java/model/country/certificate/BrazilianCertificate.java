@@ -1,5 +1,6 @@
-package model.country;
+package model.country.certificate;
 
+import model.country.pack.BrazilianPack;
 import service.Certificate;
 
 public class BrazilianCertificate extends BrazilianPack implements Certificate {

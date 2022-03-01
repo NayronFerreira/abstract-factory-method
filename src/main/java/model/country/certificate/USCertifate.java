@@ -1,4 +1,4 @@
-package model.country;
+package model.country.certificate;
 
 import factory.country.USAbstractFactory;
 import service.Certificate;

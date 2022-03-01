@@ -1,7 +1,7 @@
 package factory.country;
 
-import model.country.BrazilianCertificate;
-import model.country.BrazilianPack;
+import model.country.certificate.BrazilianCertificate;
+import model.country.pack.BrazilianPack;
 import service.*;
 
 public class BrazilianAbstractFactory extends CountryRulesAbstractFactory {

@@ -1,4 +1,4 @@
-package model.country;
+package model.country.pack;
 
 import factory.country.USAbstractFactory;
 import service.Packing;
